@@ -1,0 +1,1463 @@
+{
+  "captured_at": "2026-10-27T18:06:17.886103+08:00",
+  "files": [
+    {
+      "path": "experiments/batch_nll_20261027/source/audit_batch_nll_routers.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/audit_batch_nll_routers.py",
+      "sha256": "00da73d18f2ccad150e1db608022ad6fc76f502602b639c69069f560c596da66",
+      "bytes": 9220
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/__init__.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/__init__.py",
+      "sha256": "f39f736c907ccc7d6332da5e4a678cb59e55a0c1520faef226dcd08d9eeb8330",
+      "bytes": 90
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/anchored_moe_clinical_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/anchored_moe_clinical_readout.py",
+      "sha256": "e6c64de5dda6ae08653ccc42b74244d0493051455ad30871adbac5a5c5dfa85f",
+      "bytes": 1393
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/balanced_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/balanced_clinical_expert.py",
+      "sha256": "7165e46dca0e4005b9d035fdc70481e4ad4547a641acdcdcb8200766c3a1e499",
+      "bytes": 4876
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/balanced_clinical_sections.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/balanced_clinical_sections.py",
+      "sha256": "c3e11d12c6cd6004bcd859f05adba52251bf95b6e1bd87f47280266ef032cee4",
+      "bytes": 2535
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/batch_stable_metric.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/batch_stable_metric.py",
+      "sha256": "ea103b12d95812008ecb7b4728002356c0caa676e34ff8b870b4259ccc38c391",
+      "bytes": 2398
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/biolink_chunking.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_chunking.py",
+      "sha256": "d28e706ee76e271b2b20ef69c885fa3b5b524e221e24574517044b47542fd7dc",
+      "bytes": 1034
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/biolink_dense_chunks_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_dense_chunks_expert.py",
+      "sha256": "7d3cfa40d711948eadda419682bde614b8357e2f41fc99e2ac27d0372f821905",
+      "bytes": 4101
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/biolink_dense_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_dense_expert.py",
+      "sha256": "e8f2d90a01a61e53afff2616c3fa1c0e82f01752b1178e0eb462ac8682e0a503",
+      "bytes": 4047
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/biolink_document_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_document_expert.py",
+      "sha256": "8a504d260637dd3e52032d5df5ea7229603f7f33c86c7554d383e8e9c5ea71ac",
+      "bytes": 5878
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/candidate_ranker.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/candidate_ranker.py",
+      "sha256": "13cad60ce05ae447f91d5ad55405354ccb2c47e4c18f12fb7dffbd3479b5df4e",
+      "bytes": 1180
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/candidate_token_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/candidate_token_expert.py",
+      "sha256": "5fd3c69fa3f1664467385a5a103a8fb0cddc00a7d0194e13f0f8d5a0bbb9b6bb",
+      "bytes": 4055
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/candidate_token_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/candidate_token_readout.py",
+      "sha256": "444d3dc0acf2ea8188b67caf840b529d899ea50ad5a70dbeb36a97924036ecf8",
+      "bytes": 3822
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/capacity_transfer.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/capacity_transfer.py",
+      "sha256": "e5a3cf9b2ab7531731d3e955d9d0ba8bcf8cd32654fcb844100d6ccadff11848",
+      "bytes": 4052
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/checkpointed_mixture.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/checkpointed_mixture.py",
+      "sha256": "db2318bd98e4446d1915840fb095ee807f52814cddfbc2208b48f4db19947f7a",
+      "bytes": 1395
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/clinical_family_objective.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_family_objective.py",
+      "sha256": "8392b3a7a072d2e66de7a40957338b8cf97e0167e7a9c6e76748ae793ef05fcb",
+      "bytes": 2140
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/clinical_mixture_objective.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_mixture_objective.py",
+      "sha256": "d0e33251010467eeecf5d972cd7f8938e56debc6cc644c827569c8f9ab984536",
+      "bytes": 1732
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/clinical_rank_expansion.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_rank_expansion.py",
+      "sha256": "476169b6a4890a051e8a6a7ec7e65c307005315c5da4f6c82f6ef8c004f0b13f",
+      "bytes": 4290
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/clinical_representation_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_representation_expert.py",
+      "sha256": "533fe69d41550dcdb6bf23dbdfd398c3d95eba4d65438371a2f6a6445c605a56",
+      "bytes": 1516
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/clinical_residual_experts.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_residual_experts.py",
+      "sha256": "dc175a3e8207fa8ff3748d760a06d7bf1544dcb8f097bdb204fdef360748402b",
+      "bytes": 1908
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/clinical_summary.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_summary.py",
+      "sha256": "e13775950265ff85cd4fd8a50e83b8f347e09b0c00627324255b5dfc81aee1fe",
+      "bytes": 998
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/clinical_tail_window_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_tail_window_expert.py",
+      "sha256": "6688e7cb218265103f585017e7beb7ab4af05cdd59922a2ca632815439e445ea",
+      "bytes": 2309
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/conditional_severity.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/conditional_severity.py",
+      "sha256": "68fd21d1c1d1aeefb64d42b70b34d2f3b3a2bcfa6e5f048f32b35912f22aca4c",
+      "bytes": 985
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/continuation.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/continuation.py",
+      "sha256": "c42943e2e7b12d18f92da1f1db5d927bd170ff60d916798e85290b11d8cbcbff",
+      "bytes": 9501
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/deep_clinical_adaptation.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/deep_clinical_adaptation.py",
+      "sha256": "3dee2e7ab4dc2ee7aa1c00b279aa62182d097f77a14377936b799289d4a52880",
+      "bytes": 5255
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/ensemble_mixture_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/ensemble_mixture_clinical_expert.py",
+      "sha256": "f4e002ace9b6b7745bdbda322c5f3bb82648f36e58e72594fbc0048236ffb340",
+      "bytes": 4773
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/evidence_agreement_pool.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/evidence_agreement_pool.py",
+      "sha256": "783e8b27d1d496948471278b6a1b51f58be21069216f1c275ab0a7efeb6bb41c",
+      "bytes": 895
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/experiment_contract.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/experiment_contract.py",
+      "sha256": "b250f750c56e915777273c013efd08920b7dedcde9201ce17356796503bc93c6",
+      "bytes": 1562
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/family_auxiliary_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/family_auxiliary_clinical_expert.py",
+      "sha256": "cae158fad9ac9caacf5094c4e89deafd90b7bad9104f118a3e91983fb2c70f52",
+      "bytes": 4763
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/formal_rival_candidate_token_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/formal_rival_candidate_token_expert.py",
+      "sha256": "70113a65e1ad5ca7b17482cd8085ab57e3ff3602c41ecf8e536c3e0582732b9c",
+      "bytes": 4224
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/formulas.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/formulas.py",
+      "sha256": "fe0dd467b9b6f4163c477bced7c596825513883ea432bf386413a61eba19cc86",
+      "bytes": 9328
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/frozen18000_midcontext_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen18000_midcontext_expert.py",
+      "sha256": "0e9191b59f2ebb2717c83d8b41b7b04e3fd8a5df5789e0eba1d4b35154e7b949",
+      "bytes": 1212
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/frozen_features.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_features.py",
+      "sha256": "3abf2bbe5eeb5091b695c4cbe9faecbf5635382de1caee2e8013cd8157586cdc",
+      "bytes": 698
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/frozen_head_tail_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_head_tail_clinical_expert.py",
+      "sha256": "5ce28dca28665de616839295f718cccaaa88eed56cc03f8cc3e5c70361152de3",
+      "bytes": 2139
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/frozen_late_context_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_late_context_expert.py",
+      "sha256": "fb5883a5b34c678969ab49ecebaa1dd1bbd996ea07b3978b1d440e5c8af55ec5",
+      "bytes": 1379
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/frozen_pooled_moe.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_pooled_moe.py",
+      "sha256": "12d032ecc06e80bf4825e55187bad0ba25e4e461d8fc203a8369316e2be268f2",
+      "bytes": 1884
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/frozen_seeded_context_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_seeded_context_expert.py",
+      "sha256": "659fc8d9c71292b3d21b3ade9c79511706ef22201e32388aa4d636da3aaba607",
+      "bytes": 1000
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/fused_joint_readout_loss.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/fused_joint_readout_loss.py",
+      "sha256": "0408dedb4497da6190ca5abacdabf1dea70ec1a5e9d79483638be77b1bfc423c",
+      "bytes": 892
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/generative_signals.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/generative_signals.py",
+      "sha256": "e5bd0c1074faecfa2db746b4ccc200a67de0d3654491fda0e18febfccfa24775",
+      "bytes": 11415
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/generative_signals_v2.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/generative_signals_v2.py",
+      "sha256": "066e7bcad24fb08b6c25d27f4cfe57944e0204ebe8bec31db3e399ecb0fdda8a",
+      "bytes": 11123
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/hierarchical_feature_head.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/hierarchical_feature_head.py",
+      "sha256": "cf6c88382d5901e90c1a89aeb166404728486eae46e05d0a2e30d71a53061f33",
+      "bytes": 1529
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/high_rank_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/high_rank_clinical_expert.py",
+      "sha256": "76aaf9a056dba179d3fa4621ba65ee74857a52b9e86b987e7a5ada594312dd1f",
+      "bytes": 4950
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/intermediate_features.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/intermediate_features.py",
+      "sha256": "fe0813afbe05bf7314beee6d6799489387ada5c5fef2ca90ee93433b1fa60bdb",
+      "bytes": 1074
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/io_utils.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/io_utils.py",
+      "sha256": "fcf479bc4346251122fcc8fbb85f0027f33b0ea239c9c93ce68f0688097adfa9",
+      "bytes": 3453
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/joint_inference.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/joint_inference.py",
+      "sha256": "27106f9a43c5b2ebc8607b7912c93fb32d1d8b090e69bb7d34e4e528234322f5",
+      "bytes": 2255
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/joint_moe.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/joint_moe.py",
+      "sha256": "9543f56f18ac9ee1709619bd7a3d76a623f70e43f5c5fb974437d5e3cc100b14",
+      "bytes": 5326
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/label_expanded_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/label_expanded_clinical_expert.py",
+      "sha256": "a7271e879c08a9727e3e89cb6169aa98efda7b7021ce4fa04d2692b0439dd12a",
+      "bytes": 4299
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/late_clinical_factor_mean.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_clinical_factor_mean.py",
+      "sha256": "42fc7fd4eb63106e63713bf4507f3f178438c0f919800c95a500470e257545d7",
+      "bytes": 5151
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/late_ensemble_mixture_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_ensemble_mixture_clinical_expert.py",
+      "sha256": "eed0b3dad820be6f8e89eb6d78cbc7ffa2f44baae14d925eedc8b8d0808a0748",
+      "bytes": 4821
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/late_midcontext_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_midcontext_clinical_expert.py",
+      "sha256": "fb72d57f13685692a402c5e3226d4869bc8c6098675cdeeadc938cf9c4512311",
+      "bytes": 4637
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/late_prefix_clinical_control.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_prefix_clinical_control.py",
+      "sha256": "f2074d6d5dd358df6cc99f7c02836eda6916bb6b263a179a97760040162d2ca7",
+      "bytes": 4563
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/layer_residual_experts.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/layer_residual_experts.py",
+      "sha256": "37348dfdabd9d1929f69edd0be42b904f92db50cbd4c51dd01f93e8c4510ed21",
+      "bytes": 1444
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/lexical_fusion.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/lexical_fusion.py",
+      "sha256": "2be8b8941173aaed7f2e6d22fed1e134e1c6d0e788592c0b37dbcb833b065588",
+      "bytes": 2897
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/lexical_semantic_head.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/lexical_semantic_head.py",
+      "sha256": "d43b82bb51b78cc058f1922ff5f66dd91c9e2ddb4bb677f6d13cd2e6ce3b6b86",
+      "bytes": 904
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/long_clinical_evidence_gate.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/long_clinical_evidence_gate.py",
+      "sha256": "9479cdbc2fcc636da64f121b5432d3b9f8fa5106f2774854b13b18552bfc828d",
+      "bytes": 3731
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/long_ensemble_mixture_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/long_ensemble_mixture_clinical_expert.py",
+      "sha256": "0ac3e09071c564bcccdc749575b151f4da185354b37073f4ad5e2717b8545adb",
+      "bytes": 4820
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/mature_extended_context_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/mature_extended_context_expert.py",
+      "sha256": "d32ce98afb265020f06946161bc6fb09d227a34cccae54577a99f436f3bfafc6",
+      "bytes": 1619
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/memory_readout_fusion.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/memory_readout_fusion.py",
+      "sha256": "1b4be4f86825e9386b65ac5c5be7a11a9152984bb3ca0087d13641254e721629",
+      "bytes": 8469
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/metric_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/metric_readout.py",
+      "sha256": "1aab0442964496c6cf04f21e44215811fc503af0c8a9e910dcdaeeac38a97a09",
+      "bytes": 1334
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/mixture_aware_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/mixture_aware_clinical_expert.py",
+      "sha256": "f674aeeb1b182fc9f47772623f83989585f1bb02e5d7c7ef81ba27ae09a4b5fc",
+      "bytes": 4638
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/modeling.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/modeling.py",
+      "sha256": "d5a88fb76f068683600cf83ee2bf46f58cfd67127c140426e771bda75a95b7fc",
+      "bytes": 10920
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/modern_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/modern_clinical_expert.py",
+      "sha256": "0a50dfbf7bfc21bffb1b993cb9e1ba004f8d9329b372fa25a68fed9e1c2c5dae",
+      "bytes": 4511
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/moe_clinical_joint_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/moe_clinical_joint_readout.py",
+      "sha256": "588a4f7ae56082dea066e5dbf64636b8ff9d017a5c52dd4ef464cdcb3b806b92",
+      "bytes": 1081
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/multidepth_clinical_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/multidepth_clinical_readout.py",
+      "sha256": "37016dabfb725599f53b35c0c54c5d572de9956fd7d668c183fa541530cf4861",
+      "bytes": 1270
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/multiview_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/multiview_readout.py",
+      "sha256": "61234fcff4c268d7d13bd00f1c9cd887561b84fb3cde601bf97b943905995f87",
+      "bytes": 1082
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/pooled_joint_moe.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/pooled_joint_moe.py",
+      "sha256": "5ae308a2646fac0bfa573065c27d51d67d779fbfcd8c3318541c33c5979c8e5c",
+      "bytes": 4481
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/prefix_clinical_control.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/prefix_clinical_control.py",
+      "sha256": "d28eec1e2efaf3edc34198e24200a85b05c9d069ea603955e36b53bdcdaad8f0",
+      "bytes": 4515
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/problem_list_input.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/problem_list_input.py",
+      "sha256": "1defb3b00ef655c2385f375d96f03b4ef8ec5c3f510f10ad6ed54d9cbcbeccba",
+      "bytes": 1689
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/reliability_probability_gate.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/reliability_probability_gate.py",
+      "sha256": "c54148804887c1798ee171e13608dce6b0a02000103d44e696e9bcc3769b7a0e",
+      "bytes": 2713
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/residual_expert_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/residual_expert_readout.py",
+      "sha256": "c71d6fe059c12450b9c6636fe2b90d42647d4afc2794b325ff74b01322833cd5",
+      "bytes": 1504
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/residual_feature_head.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/residual_feature_head.py",
+      "sha256": "93bd92d3f416be7fd3a0d9b63e4a9d83d8ea70058e0f7e450687dad1d2c872e3",
+      "bytes": 1033
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/residual_moe_inference.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/residual_moe_inference.py",
+      "sha256": "9bc881290e00e0e6822aacb88b56996d36feaa076361e914b3dc24c137d01046",
+      "bytes": 1457
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/retrieval_pipeline.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/retrieval_pipeline.py",
+      "sha256": "bcbe4ab216acc2d1be0427b2e3906458e6947f88947626b3c290a47fa87f65f6",
+      "bytes": 13810
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/rival_candidate_token_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/rival_candidate_token_expert.py",
+      "sha256": "e33fe0b3314ea7dbf3132db6eb512fdef443d2bc9f0aaca9745865c8c677d7ac",
+      "bytes": 4220
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/rival_candidate_token_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/rival_candidate_token_readout.py",
+      "sha256": "0331a7a0bc63dc0b6e37a1c17b81d48a1962eea53dcbb78ac59bdb22b333e0e7",
+      "bytes": 3340
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/rival_readout_protocol.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/rival_readout_protocol.py",
+      "sha256": "28b8d6e0ded51daeacc7271dbe2b984082e831bf82669c363c46c5ea651871e1",
+      "bytes": 2540
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/route_shrinkage.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/route_shrinkage.py",
+      "sha256": "8df3418c527fd3094deee51f5a617d902a351c6b7bd4f12b8e502449aa7bb9b2",
+      "bytes": 3068
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/routing_audit.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/routing_audit.py",
+      "sha256": "b6b5a0c56681bc8fd0ca6a4ef03cda375265adb95ace968ada88cb8f030fc543",
+      "bytes": 1234
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/seeded_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/seeded_clinical_expert.py",
+      "sha256": "201deba36d73b1286075b57c823d1aff64edcb9ed90e6fc6ddfb14f9709f603d",
+      "bytes": 4511
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/shared_candidate_token_pool.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/shared_candidate_token_pool.py",
+      "sha256": "280d77d6cdac9f452af4234f4bcf192020b6f33508d79703c1a829197e54fffb",
+      "bytes": 4228
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/shared_rival_candidate_token_pool.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/shared_rival_candidate_token_pool.py",
+      "sha256": "298a9bbdc5dfcdce2a8d86bcea37bb22f9c11f8ee2e8b9a54610932b8c8eccca",
+      "bytes": 6343
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/signals.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/signals.py",
+      "sha256": "aa93d84147d07570a2d3662a087d589c6b4298a151f4b52e4b89212df3ef4aea",
+      "bytes": 36297
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/six_view_severity.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/six_view_severity.py",
+      "sha256": "731aebb46ddcb029666fa84e4013ff15299784cb9858f47e4a1776e6c3bf9f6c",
+      "bytes": 1043
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/token_kda.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/token_kda.py",
+      "sha256": "51612caf8abff7baf4d0d5d6b885f9c5aff6510ad044fa727fda966eecf64616",
+      "bytes": 7392
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/top_layer_adapted_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/top_layer_adapted_clinical_expert.py",
+      "sha256": "3c1d2915742c13c73c403f0654d2bcfe8f860842a778173ef7e6ea64e49f1970",
+      "bytes": 4485
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/top_layer_clinical_adaptation.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/top_layer_clinical_adaptation.py",
+      "sha256": "51087e3ebf6e7913c17644179dcf41f3c58718e8c6180652bf1fe0541b524982",
+      "bytes": 1697
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/warm_long_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/warm_long_clinical_expert.py",
+      "sha256": "cc7aec8586c2f8dcffa73ee664ae0d930510c502e1b148f83e8d5d2211846ec8",
+      "bytes": 4511
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/backbone/adaptive_blockwise/warm_prefix10000_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/warm_prefix10000_expert.py",
+      "sha256": "a49eb7ec6dbfdd14b9b4b8b05f24bf70de08e9f820d391986d50e5af8b0ab618",
+      "bytes": 4516
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/batch_nll_oracle.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/batch_nll_oracle.py",
+      "sha256": "7369b58434449587e843cb64e67a9cdba09faf12527810fc3fb4fcf5af8361eb",
+      "bytes": 4647
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/launch_batch_nll_routers.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/launch_batch_nll_routers.py",
+      "sha256": "ff414c83d4ba12e62f0410d9a3f16a41f54ad73a5f4abf4fb2f6a0ba9fd37e74",
+      "bytes": 7226
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/launch_soft_openjev.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/launch_soft_openjev.py",
+      "sha256": "3f145cbe33b024ca6ed752d5031caad5ba8a2b17e17c1e0b12372fc6cf05d04c",
+      "bytes": 11900
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/prefix_cache.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/prefix_cache.py",
+      "sha256": "a73bcda5e5f46f88fce7f493a737547d100034547beb27b356c5e53277a46850",
+      "bytes": 4247
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/prepare_batch_nll.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/prepare_batch_nll.py",
+      "sha256": "327af478c2a77467beff6852d7097563fe565617dbbf4a78992eac617e2b7f84",
+      "bytes": 4240
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/soft_openjev_runtime.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/soft_openjev_runtime.py",
+      "sha256": "3e7efe2412033de0c9162d77b38dddd10ba71912f2ba40b80681b65ea0ff94a0",
+      "bytes": 13133
+    },
+    {
+      "path": "experiments/batch_nll_20261027/source/train_batch_nll_routers.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/train_batch_nll_routers.py",
+      "sha256": "0648866b2fcb3fbe085023f2d35534a03a95029548d246f733c56e527be9b1f1",
+      "bytes": 17599
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/README.md",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/README.md",
+      "sha256": "9ca420488147d3eb3043c8ff2c1157ea8eb0bda9c483bbfc63b81e23004e16fd",
+      "bytes": 3669
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/config.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/config.json",
+      "sha256": "0a299a7bf0873f78e7f1abd01b64bfa476a435f583f3997c5d2952d5fee5181c",
+      "bytes": 83446,
+      "original_sha256": "a096c6deec3d9b61a99578ced41dbb95a0a7a66110540b7c85d7d3641076a279"
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/experiment_contract.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/experiment_contract.json",
+      "sha256": "7ea2087207ee419c54a9ffbaa6f621f3fc82ca980c7fadd3ed66649d52e84b54",
+      "bytes": 103946,
+      "original_sha256": "38969bc2119c489b90a48d71afd5b0cb5609ba40e7092f695f23f1034ef79962"
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/progress.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/progress.json",
+      "sha256": "7a22b7400ed54fe269440a704d9c4710932c5bfa31c44396e0bbcf09823ecc0a",
+      "bytes": 350
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/preflight.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/preflight.json",
+      "sha256": "54b4a59e2845b491580a60c32aaa7c41a1391eb3153978eb7d05aa1fd5e093ac",
+      "bytes": 1648
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/oracle/train_manifest.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/oracle/train_manifest.json",
+      "sha256": "56bedb78c3e4bca70c5ccde2bb45d9181b6e46717aa24cfb992fef396250c00a",
+      "bytes": 300903
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/oracle/verification.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/oracle/verification.json",
+      "sha256": "23da3fad5d80d2454a5432b9dd3a4b295ac2d940672e294469dd8cd43bfb693c",
+      "bytes": 283
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/mlp/progress.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/mlp/progress.json",
+      "sha256": "48d6a4e25edd6b88228fa986451ded6650cb176cab79b5b1a01c7db3b8b8f82d",
+      "bytes": 264
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/openjev/progress.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/openjev/progress.json",
+      "sha256": "c862d0851c93d569a6767e0863d1c5e21a9a3f4c3048dac882d4c3e138de8951",
+      "bytes": 261
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/mlp/training_history.jsonl",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/mlp/training_history.jsonl",
+      "sha256": "79e79d039c338164d0ab26c72ae4df5417e6ea65f7071609cef823fcd541c118",
+      "bytes": 1640
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/openjev/training_history.jsonl",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/openjev/training_history.jsonl",
+      "sha256": "50e653f997b72f41c0fea190b4cf8f4ccbc3fc257e901e95f810fdc1bd13824d",
+      "bytes": 1490
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/mlp32_user_override.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/mlp32_user_override.json",
+      "sha256": "6caba1031f2a56b5b7c2abfa4f6d2844b927262f5ad1d6c571866a97a73a28d4",
+      "bytes": 367
+    },
+    {
+      "path": "experiments/batch_nll_20261027/records/preflight_source_amendment.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/preflight_source_amendment.json",
+      "sha256": "2d38df3be362d2c5d26b46e6d739642503c57b799464c69a4246640a7b86a9c2",
+      "bytes": 455
+    },
+    {
+      "path": "expert_training/scripts/00_prepare_splits.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/00_prepare_splits.py",
+      "sha256": "c1dd45a0b5a2c87a6453041e5ec07e69edb06a57f529d4b1b4361228a9449549",
+      "bytes": 7649
+    },
+    {
+      "path": "expert_training/scripts/01_build_calibration.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/01_build_calibration.py",
+      "sha256": "c2cd438d1a955fc6e277c83565ff14e80c016e8a5ba9f39a342046dbc7cb7bd2",
+      "bytes": 9477
+    },
+    {
+      "path": "expert_training/scripts/02_select_adaptive_blocks.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/02_select_adaptive_blocks.py",
+      "sha256": "211eedf14c95ef49141b010927e5e7cd3fac9b16b94bf3d9bbb8af71e806311b",
+      "bytes": 10837
+    },
+    {
+      "path": "expert_training/scripts/03_build_full_block_groups.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/03_build_full_block_groups.py",
+      "sha256": "a42fa0d1af5a701ffe208cb7cc0feb94e5125655854b09f00c85b4e0f0061960",
+      "bytes": 15209
+    },
+    {
+      "path": "expert_training/scripts/04_assign_sample_groups.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/04_assign_sample_groups.py",
+      "sha256": "83ef61fd945d0cdc754e5475d544b09105adff6fc3ac271bba5e1fba35ce49be",
+      "bytes": 18250
+    },
+    {
+      "path": "expert_training/scripts/05_train_experts.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/05_train_experts.py",
+      "sha256": "a851279b507464b7e054f6107bf6629006561602a4e503a38db812986f6a0404",
+      "bytes": 22998
+    },
+    {
+      "path": "expert_training/scripts/06_train_block_routers.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/06_train_block_routers.py",
+      "sha256": "8cb63750906f813328e5559c47ea708356f196fd2c6665f0c0acd56fc6ea04bf",
+      "bytes": 18344
+    },
+    {
+      "path": "expert_training/scripts/07_evaluate.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/07_evaluate.py",
+      "sha256": "3f660634080ce83dab1d33a944aeae62bdc26ddf72429d31f7bc2635b594e2d4",
+      "bytes": 18941
+    },
+    {
+      "path": "expert_training/scripts/20_train_joint_moe.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/scripts/20_train_joint_moe.py",
+      "sha256": "0e7823eeb5154bd8ace10a947a9c88192407c7820f888175816c9e1c8429e561",
+      "bytes": 18954
+    },
+    {
+      "path": "expert_training/run_1333_pipeline.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/run_1333_pipeline.py",
+      "sha256": "d8a227cd0496b07076a9ee5aca7072ddcf044cc62e36d746ae74ac3d7736b9de",
+      "bytes": 14027
+    },
+    {
+      "path": "expert_training/config_k1233_qwen1024_train16_eval8_sig16_8gpu.json",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/config_k1233_qwen1024_train16_eval8_sig16_8gpu.json",
+      "sha256": "b0ba6cfec5d78f85162ec3fccf6b21a6012c93f11d4d0ec95d9402a1e85a752e",
+      "bytes": 2254
+    },
+    {
+      "path": "expert_training/config_k1233_qwen1024_joint_sig16_8gpu_eval8.json",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/config_k1233_qwen1024_joint_sig16_8gpu_eval8.json",
+      "sha256": "b8890ae103f40c99a104c34dc5f01cb67487d4716c8e9863453a9fd1236ca498",
+      "bytes": 888
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/__init__.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/__init__.py",
+      "sha256": "f39f736c907ccc7d6332da5e4a678cb59e55a0c1520faef226dcd08d9eeb8330",
+      "bytes": 90
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/anchored_moe_clinical_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/anchored_moe_clinical_readout.py",
+      "sha256": "e6c64de5dda6ae08653ccc42b74244d0493051455ad30871adbac5a5c5dfa85f",
+      "bytes": 1393
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/balanced_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/balanced_clinical_expert.py",
+      "sha256": "7165e46dca0e4005b9d035fdc70481e4ad4547a641acdcdcb8200766c3a1e499",
+      "bytes": 4876
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/balanced_clinical_sections.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/balanced_clinical_sections.py",
+      "sha256": "c3e11d12c6cd6004bcd859f05adba52251bf95b6e1bd87f47280266ef032cee4",
+      "bytes": 2535
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/batch_stable_metric.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/batch_stable_metric.py",
+      "sha256": "ea103b12d95812008ecb7b4728002356c0caa676e34ff8b870b4259ccc38c391",
+      "bytes": 2398
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/biolink_chunking.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_chunking.py",
+      "sha256": "d28e706ee76e271b2b20ef69c885fa3b5b524e221e24574517044b47542fd7dc",
+      "bytes": 1034
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/biolink_dense_chunks_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_dense_chunks_expert.py",
+      "sha256": "7d3cfa40d711948eadda419682bde614b8357e2f41fc99e2ac27d0372f821905",
+      "bytes": 4101
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/biolink_dense_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_dense_expert.py",
+      "sha256": "e8f2d90a01a61e53afff2616c3fa1c0e82f01752b1178e0eb462ac8682e0a503",
+      "bytes": 4047
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/biolink_document_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/biolink_document_expert.py",
+      "sha256": "8a504d260637dd3e52032d5df5ea7229603f7f33c86c7554d383e8e9c5ea71ac",
+      "bytes": 5878
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/candidate_ranker.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/candidate_ranker.py",
+      "sha256": "13cad60ce05ae447f91d5ad55405354ccb2c47e4c18f12fb7dffbd3479b5df4e",
+      "bytes": 1180
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/candidate_token_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/candidate_token_expert.py",
+      "sha256": "5fd3c69fa3f1664467385a5a103a8fb0cddc00a7d0194e13f0f8d5a0bbb9b6bb",
+      "bytes": 4055
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/candidate_token_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/candidate_token_readout.py",
+      "sha256": "444d3dc0acf2ea8188b67caf840b529d899ea50ad5a70dbeb36a97924036ecf8",
+      "bytes": 3822
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/capacity_transfer.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/capacity_transfer.py",
+      "sha256": "e5a3cf9b2ab7531731d3e955d9d0ba8bcf8cd32654fcb844100d6ccadff11848",
+      "bytes": 4052
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/checkpointed_mixture.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/checkpointed_mixture.py",
+      "sha256": "db2318bd98e4446d1915840fb095ee807f52814cddfbc2208b48f4db19947f7a",
+      "bytes": 1395
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/clinical_family_objective.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_family_objective.py",
+      "sha256": "8392b3a7a072d2e66de7a40957338b8cf97e0167e7a9c6e76748ae793ef05fcb",
+      "bytes": 2140
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/clinical_mixture_objective.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_mixture_objective.py",
+      "sha256": "d0e33251010467eeecf5d972cd7f8938e56debc6cc644c827569c8f9ab984536",
+      "bytes": 1732
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/clinical_rank_expansion.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_rank_expansion.py",
+      "sha256": "476169b6a4890a051e8a6a7ec7e65c307005315c5da4f6c82f6ef8c004f0b13f",
+      "bytes": 4290
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/clinical_representation_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_representation_expert.py",
+      "sha256": "533fe69d41550dcdb6bf23dbdfd398c3d95eba4d65438371a2f6a6445c605a56",
+      "bytes": 1516
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/clinical_residual_experts.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_residual_experts.py",
+      "sha256": "dc175a3e8207fa8ff3748d760a06d7bf1544dcb8f097bdb204fdef360748402b",
+      "bytes": 1908
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/clinical_summary.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_summary.py",
+      "sha256": "e13775950265ff85cd4fd8a50e83b8f347e09b0c00627324255b5dfc81aee1fe",
+      "bytes": 998
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/clinical_tail_window_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/clinical_tail_window_expert.py",
+      "sha256": "6688e7cb218265103f585017e7beb7ab4af05cdd59922a2ca632815439e445ea",
+      "bytes": 2309
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/conditional_severity.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/conditional_severity.py",
+      "sha256": "68fd21d1c1d1aeefb64d42b70b34d2f3b3a2bcfa6e5f048f32b35912f22aca4c",
+      "bytes": 985
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/continuation.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/continuation.py",
+      "sha256": "c42943e2e7b12d18f92da1f1db5d927bd170ff60d916798e85290b11d8cbcbff",
+      "bytes": 9501
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/deep_clinical_adaptation.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/deep_clinical_adaptation.py",
+      "sha256": "3dee2e7ab4dc2ee7aa1c00b279aa62182d097f77a14377936b799289d4a52880",
+      "bytes": 5255
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/ensemble_mixture_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/ensemble_mixture_clinical_expert.py",
+      "sha256": "f4e002ace9b6b7745bdbda322c5f3bb82648f36e58e72594fbc0048236ffb340",
+      "bytes": 4773
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/evidence_agreement_pool.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/evidence_agreement_pool.py",
+      "sha256": "783e8b27d1d496948471278b6a1b51f58be21069216f1c275ab0a7efeb6bb41c",
+      "bytes": 895
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/experiment_contract.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/experiment_contract.py",
+      "sha256": "b250f750c56e915777273c013efd08920b7dedcde9201ce17356796503bc93c6",
+      "bytes": 1562
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/family_auxiliary_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/family_auxiliary_clinical_expert.py",
+      "sha256": "cae158fad9ac9caacf5094c4e89deafd90b7bad9104f118a3e91983fb2c70f52",
+      "bytes": 4763
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/formal_rival_candidate_token_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/formal_rival_candidate_token_expert.py",
+      "sha256": "70113a65e1ad5ca7b17482cd8085ab57e3ff3602c41ecf8e536c3e0582732b9c",
+      "bytes": 4224
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/formulas.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/formulas.py",
+      "sha256": "fe0dd467b9b6f4163c477bced7c596825513883ea432bf386413a61eba19cc86",
+      "bytes": 9328
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/frozen18000_midcontext_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen18000_midcontext_expert.py",
+      "sha256": "0e9191b59f2ebb2717c83d8b41b7b04e3fd8a5df5789e0eba1d4b35154e7b949",
+      "bytes": 1212
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/frozen_features.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_features.py",
+      "sha256": "3abf2bbe5eeb5091b695c4cbe9faecbf5635382de1caee2e8013cd8157586cdc",
+      "bytes": 698
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/frozen_head_tail_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_head_tail_clinical_expert.py",
+      "sha256": "5ce28dca28665de616839295f718cccaaa88eed56cc03f8cc3e5c70361152de3",
+      "bytes": 2139
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/frozen_late_context_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_late_context_expert.py",
+      "sha256": "fb5883a5b34c678969ab49ecebaa1dd1bbd996ea07b3978b1d440e5c8af55ec5",
+      "bytes": 1379
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/frozen_pooled_moe.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_pooled_moe.py",
+      "sha256": "12d032ecc06e80bf4825e55187bad0ba25e4e461d8fc203a8369316e2be268f2",
+      "bytes": 1884
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/frozen_seeded_context_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/frozen_seeded_context_expert.py",
+      "sha256": "659fc8d9c71292b3d21b3ade9c79511706ef22201e32388aa4d636da3aaba607",
+      "bytes": 1000
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/fused_joint_readout_loss.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/fused_joint_readout_loss.py",
+      "sha256": "0408dedb4497da6190ca5abacdabf1dea70ec1a5e9d79483638be77b1bfc423c",
+      "bytes": 892
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/generative_signals.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/generative_signals.py",
+      "sha256": "e5bd0c1074faecfa2db746b4ccc200a67de0d3654491fda0e18febfccfa24775",
+      "bytes": 11415
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/generative_signals_v2.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/generative_signals_v2.py",
+      "sha256": "066e7bcad24fb08b6c25d27f4cfe57944e0204ebe8bec31db3e399ecb0fdda8a",
+      "bytes": 11123
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/hierarchical_feature_head.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/hierarchical_feature_head.py",
+      "sha256": "cf6c88382d5901e90c1a89aeb166404728486eae46e05d0a2e30d71a53061f33",
+      "bytes": 1529
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/high_rank_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/high_rank_clinical_expert.py",
+      "sha256": "76aaf9a056dba179d3fa4621ba65ee74857a52b9e86b987e7a5ada594312dd1f",
+      "bytes": 4950
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/intermediate_features.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/intermediate_features.py",
+      "sha256": "fe0813afbe05bf7314beee6d6799489387ada5c5fef2ca90ee93433b1fa60bdb",
+      "bytes": 1074
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/io_utils.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/io_utils.py",
+      "sha256": "fcf479bc4346251122fcc8fbb85f0027f33b0ea239c9c93ce68f0688097adfa9",
+      "bytes": 3453
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/joint_inference.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/joint_inference.py",
+      "sha256": "27106f9a43c5b2ebc8607b7912c93fb32d1d8b090e69bb7d34e4e528234322f5",
+      "bytes": 2255
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/joint_moe.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/joint_moe.py",
+      "sha256": "9543f56f18ac9ee1709619bd7a3d76a623f70e43f5c5fb974437d5e3cc100b14",
+      "bytes": 5326
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/label_expanded_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/label_expanded_clinical_expert.py",
+      "sha256": "a7271e879c08a9727e3e89cb6169aa98efda7b7021ce4fa04d2692b0439dd12a",
+      "bytes": 4299
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/late_clinical_factor_mean.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_clinical_factor_mean.py",
+      "sha256": "42fc7fd4eb63106e63713bf4507f3f178438c0f919800c95a500470e257545d7",
+      "bytes": 5151
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/late_ensemble_mixture_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_ensemble_mixture_clinical_expert.py",
+      "sha256": "eed0b3dad820be6f8e89eb6d78cbc7ffa2f44baae14d925eedc8b8d0808a0748",
+      "bytes": 4821
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/late_midcontext_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_midcontext_clinical_expert.py",
+      "sha256": "fb72d57f13685692a402c5e3226d4869bc8c6098675cdeeadc938cf9c4512311",
+      "bytes": 4637
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/late_prefix_clinical_control.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/late_prefix_clinical_control.py",
+      "sha256": "f2074d6d5dd358df6cc99f7c02836eda6916bb6b263a179a97760040162d2ca7",
+      "bytes": 4563
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/layer_residual_experts.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/layer_residual_experts.py",
+      "sha256": "37348dfdabd9d1929f69edd0be42b904f92db50cbd4c51dd01f93e8c4510ed21",
+      "bytes": 1444
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/lexical_fusion.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/lexical_fusion.py",
+      "sha256": "2be8b8941173aaed7f2e6d22fed1e134e1c6d0e788592c0b37dbcb833b065588",
+      "bytes": 2897
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/lexical_semantic_head.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/lexical_semantic_head.py",
+      "sha256": "d43b82bb51b78cc058f1922ff5f66dd91c9e2ddb4bb677f6d13cd2e6ce3b6b86",
+      "bytes": 904
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/long_clinical_evidence_gate.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/long_clinical_evidence_gate.py",
+      "sha256": "9479cdbc2fcc636da64f121b5432d3b9f8fa5106f2774854b13b18552bfc828d",
+      "bytes": 3731
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/long_ensemble_mixture_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/long_ensemble_mixture_clinical_expert.py",
+      "sha256": "0ac3e09071c564bcccdc749575b151f4da185354b37073f4ad5e2717b8545adb",
+      "bytes": 4820
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/mature_extended_context_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/mature_extended_context_expert.py",
+      "sha256": "d32ce98afb265020f06946161bc6fb09d227a34cccae54577a99f436f3bfafc6",
+      "bytes": 1619
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/memory_readout_fusion.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/memory_readout_fusion.py",
+      "sha256": "1b4be4f86825e9386b65ac5c5be7a11a9152984bb3ca0087d13641254e721629",
+      "bytes": 8469
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/metric_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/metric_readout.py",
+      "sha256": "1aab0442964496c6cf04f21e44215811fc503af0c8a9e910dcdaeeac38a97a09",
+      "bytes": 1334
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/mixture_aware_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/mixture_aware_clinical_expert.py",
+      "sha256": "f674aeeb1b182fc9f47772623f83989585f1bb02e5d7c7ef81ba27ae09a4b5fc",
+      "bytes": 4638
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/modeling.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/modeling.py",
+      "sha256": "d5a88fb76f068683600cf83ee2bf46f58cfd67127c140426e771bda75a95b7fc",
+      "bytes": 10920
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/modern_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/modern_clinical_expert.py",
+      "sha256": "0a50dfbf7bfc21bffb1b993cb9e1ba004f8d9329b372fa25a68fed9e1c2c5dae",
+      "bytes": 4511
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/moe_clinical_joint_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/moe_clinical_joint_readout.py",
+      "sha256": "588a4f7ae56082dea066e5dbf64636b8ff9d017a5c52dd4ef464cdcb3b806b92",
+      "bytes": 1081
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/multidepth_clinical_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/multidepth_clinical_readout.py",
+      "sha256": "37016dabfb725599f53b35c0c54c5d572de9956fd7d668c183fa541530cf4861",
+      "bytes": 1270
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/multiview_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/multiview_readout.py",
+      "sha256": "61234fcff4c268d7d13bd00f1c9cd887561b84fb3cde601bf97b943905995f87",
+      "bytes": 1082
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/pooled_joint_moe.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/pooled_joint_moe.py",
+      "sha256": "5ae308a2646fac0bfa573065c27d51d67d779fbfcd8c3318541c33c5979c8e5c",
+      "bytes": 4481
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/prefix_clinical_control.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/prefix_clinical_control.py",
+      "sha256": "d28eec1e2efaf3edc34198e24200a85b05c9d069ea603955e36b53bdcdaad8f0",
+      "bytes": 4515
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/problem_list_input.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/problem_list_input.py",
+      "sha256": "1defb3b00ef655c2385f375d96f03b4ef8ec5c3f510f10ad6ed54d9cbcbeccba",
+      "bytes": 1689
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/reliability_probability_gate.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/reliability_probability_gate.py",
+      "sha256": "c54148804887c1798ee171e13608dce6b0a02000103d44e696e9bcc3769b7a0e",
+      "bytes": 2713
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/residual_expert_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/residual_expert_readout.py",
+      "sha256": "c71d6fe059c12450b9c6636fe2b90d42647d4afc2794b325ff74b01322833cd5",
+      "bytes": 1504
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/residual_feature_head.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/residual_feature_head.py",
+      "sha256": "93bd92d3f416be7fd3a0d9b63e4a9d83d8ea70058e0f7e450687dad1d2c872e3",
+      "bytes": 1033
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/residual_moe_inference.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/residual_moe_inference.py",
+      "sha256": "9bc881290e00e0e6822aacb88b56996d36feaa076361e914b3dc24c137d01046",
+      "bytes": 1457
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/retrieval_pipeline.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/retrieval_pipeline.py",
+      "sha256": "bcbe4ab216acc2d1be0427b2e3906458e6947f88947626b3c290a47fa87f65f6",
+      "bytes": 13810
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/rival_candidate_token_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/rival_candidate_token_expert.py",
+      "sha256": "e33fe0b3314ea7dbf3132db6eb512fdef443d2bc9f0aaca9745865c8c677d7ac",
+      "bytes": 4220
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/rival_candidate_token_readout.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/rival_candidate_token_readout.py",
+      "sha256": "0331a7a0bc63dc0b6e37a1c17b81d48a1962eea53dcbb78ac59bdb22b333e0e7",
+      "bytes": 3340
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/rival_readout_protocol.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/rival_readout_protocol.py",
+      "sha256": "28b8d6e0ded51daeacc7271dbe2b984082e831bf82669c363c46c5ea651871e1",
+      "bytes": 2540
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/route_shrinkage.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/route_shrinkage.py",
+      "sha256": "8df3418c527fd3094deee51f5a617d902a351c6b7bd4f12b8e502449aa7bb9b2",
+      "bytes": 3068
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/routing_audit.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/routing_audit.py",
+      "sha256": "b6b5a0c56681bc8fd0ca6a4ef03cda375265adb95ace968ada88cb8f030fc543",
+      "bytes": 1234
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/seeded_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/seeded_clinical_expert.py",
+      "sha256": "201deba36d73b1286075b57c823d1aff64edcb9ed90e6fc6ddfb14f9709f603d",
+      "bytes": 4511
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/shared_candidate_token_pool.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/shared_candidate_token_pool.py",
+      "sha256": "280d77d6cdac9f452af4234f4bcf192020b6f33508d79703c1a829197e54fffb",
+      "bytes": 4228
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/shared_rival_candidate_token_pool.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/shared_rival_candidate_token_pool.py",
+      "sha256": "298a9bbdc5dfcdce2a8d86bcea37bb22f9c11f8ee2e8b9a54610932b8c8eccca",
+      "bytes": 6343
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/signals.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/signals.py",
+      "sha256": "aa93d84147d07570a2d3662a087d589c6b4298a151f4b52e4b89212df3ef4aea",
+      "bytes": 36297
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/six_view_severity.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/six_view_severity.py",
+      "sha256": "731aebb46ddcb029666fa84e4013ff15299784cb9858f47e4a1776e6c3bf9f6c",
+      "bytes": 1043
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/token_kda.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/token_kda.py",
+      "sha256": "51612caf8abff7baf4d0d5d6b885f9c5aff6510ad044fa727fda966eecf64616",
+      "bytes": 7392
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/top_layer_adapted_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/top_layer_adapted_clinical_expert.py",
+      "sha256": "3c1d2915742c13c73c403f0654d2bcfe8f860842a778173ef7e6ea64e49f1970",
+      "bytes": 4485
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/top_layer_clinical_adaptation.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/top_layer_clinical_adaptation.py",
+      "sha256": "51087e3ebf6e7913c17644179dcf41f3c58718e8c6180652bf1fe0541b524982",
+      "bytes": 1697
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/warm_long_clinical_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/warm_long_clinical_expert.py",
+      "sha256": "cc7aec8586c2f8dcffa73ee664ae0d930510c502e1b148f83e8d5d2211846ec8",
+      "bytes": 4511
+    },
+    {
+      "path": "expert_training/adaptive_blockwise/warm_prefix10000_expert.py",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/source/backbone/adaptive_blockwise/warm_prefix10000_expert.py",
+      "sha256": "a49eb7ec6dbfdd14b9b4b8b05f24bf70de08e9f820d391986d50e5af8b0ab618",
+      "bytes": 4516
+    },
+    {
+      "path": "initialization/prepare_openjev_assets.py",
+      "source": "/ai/data/moe-lora/Jev/prepare_openjev_assets.py",
+      "sha256": "d449df257c6c9d9e56f45bf73eed7eefa38440e4f621c3d9c090efa9725a6ee8",
+      "bytes": 2164
+    },
+    {
+      "path": "initialization/train_openjev_initialization.py",
+      "source": "/ai/data/moe-lora/Jev/train_openjev_initialization.py",
+      "sha256": "bd6937bd281d6ab0d67a9d42e8bafabb82a3ddc6f5f8241b7e44e3b08c332472",
+      "bytes": 2487
+    },
+    {
+      "path": "initialization/records/assets.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/initialization/assets.json",
+      "sha256": "f8fee8c7f960c0255be8f53674be48f9a89c730f11c450d43dd150b67e15e597",
+      "bytes": 1317
+    },
+    {
+      "path": "initialization/records/O1.manifest.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/initialization/O1.manifest.json",
+      "sha256": "d7c40548ad4b1aa08becca77179a240363c258fb33870da7efa02d37f834caf0",
+      "bytes": 1002
+    },
+    {
+      "path": "initialization/records/O2.manifest.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/initialization/O2.manifest.json",
+      "sha256": "ec43b1b1f583470de280e9cfc2d462f555e0dd8d29519a2f8cf0ae2292d680e9",
+      "bytes": 1188
+    },
+    {
+      "path": "initialization/records/O1_arguments.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/initialization/O1_arguments.json",
+      "sha256": "0bdfeb8143ff6c01d7e5b319155e6d49df2e342557af77d0c24cf485eacd6d04",
+      "bytes": 2067
+    },
+    {
+      "path": "initialization/records/O2_arguments.json",
+      "source": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/initialization/O2_arguments.json",
+      "sha256": "2bbcbcdd732d3c6380e047ecf9b25b26e086e0163b0568da1bab6f48f292a861",
+      "bytes": 2189
+    },
+    {
+      "path": "vendor/openjev-rlcd/LICENSE",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/LICENSE",
+      "sha256": "cc6e1df9d59834dbda8cdd3a47693b0635ade906eccbac6ff9eb37dbebc79e81",
+      "bytes": 1083
+    },
+    {
+      "path": "vendor/openjev-rlcd/README.md",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/README.md",
+      "sha256": "f993f3a0d29a40979d74f765c30ab200b5fdd3a1d7a96705db6bf39259ea3d69",
+      "bytes": 6346
+    },
+    {
+      "path": "vendor/openjev-rlcd/pyproject.toml",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/pyproject.toml",
+      "sha256": "9f1e42be287597d146487e28e5f75f965d484d862bb3ffd306d55e9852cb9fe1",
+      "bytes": 565
+    },
+    {
+      "path": "vendor/openjev-rlcd/requirements.txt",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/requirements.txt",
+      "sha256": "b4f5546d516d7a82b9598163b601180c7c2c72a5fb8440a0278ba85092eb668f",
+      "bytes": 163
+    },
+    {
+      "path": "vendor/openjev-rlcd/conftest.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/conftest.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/estimators.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/estimators.py",
+      "sha256": "8213f1b0b585f268889ddbc92a15402e9dc91d78e89955b3e10667f7563d3b42",
+      "bytes": 4440
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/evaluation.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/evaluation.py",
+      "sha256": "2ff113a26827b88b3f1390ce61b10ede5913eb3a66442f65329cd2a7bcc421b8",
+      "bytes": 3475
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/final_tables.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/final_tables.py",
+      "sha256": "ab46ee197951bcdc7ed8cb2555cbcbccaea3ec37e4b79ff7de46ec3d2eabb0b2",
+      "bytes": 6280
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/metrics.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/metrics.py",
+      "sha256": "b0c9d7b030e91acc142b23fceb30266ee2cd0761f9a94717e8d8c6c945d3ff47",
+      "bytes": 3776
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/tasks/__init__.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/tasks/__init__.py",
+      "sha256": "7adc650eec095716c24bd20f6715ce999eb68545045ca9dbba9a82b44ded1ab5",
+      "bytes": 1531
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/tasks/chaosnli.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/tasks/chaosnli.py",
+      "sha256": "397b110a0bdd20d697885de062f4d7c47f7b21b4e0bdf7eb68611ab40c03fe74",
+      "bytes": 1286
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/tasks/gsm8k_verify.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/tasks/gsm8k_verify.py",
+      "sha256": "5760586a5aff67465d24b85b2b50a9cf1c32925bc9736ecdb1ff764cdb635ad2",
+      "bytes": 4805
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/tasks/mmlu_pro.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/tasks/mmlu_pro.py",
+      "sha256": "540431b5e6ed64946d31e0fab53e428202c6916ed1efe81388c15d2004979a58",
+      "bytes": 5951
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/train.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/train.py",
+      "sha256": "d71fb77dab4b8276d241d5175dfe40881e8d355d48e20d5548c3243f0c02cba6",
+      "bytes": 23421
+    },
+    {
+      "path": "vendor/openjev-rlcd/openjev_rlcd/train_direct.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/openjev_rlcd/train_direct.py",
+      "sha256": "00cb257cd9eeafd9d3e5669f801db9971d5d5a34d0b35c586d40e34b876276e7",
+      "bytes": 5505
+    },
+    {
+      "path": "vendor/openjev-rlcd/tests/test_estimators.py",
+      "source": "/ai/data/moe-lora/Jev/vendor/openjev-rlcd/tests/test_estimators.py",
+      "sha256": "e463147baa72dba6b611b6feecf32e30633805b30c39f91f82c366009a519a58",
+      "bytes": 5980
+    },
+    {
+      "path": "tests/support/tests/test_any_route_cache.py",
+      "source": "/ai/data/moe-lora/Jev/tests/test_any_route_cache.py",
+      "sha256": "e5a2d81d7d54061ec98838280353457e9adb68bd9d8c5902c76c5a9e88ea9f79",
+      "bytes": 1082
+    },
+    {
+      "path": "tests/support/tests/test_oracle_cache.py",
+      "source": "/ai/data/moe-lora/Jev/tests/test_oracle_cache.py",
+      "sha256": "f57266f83d8be3abb60bc00e15c5cd7b6b901ee663c91f67a67b0ec3f21d9ff6",
+      "bytes": 4735
+    },
+    {
+      "path": "tests/support/openjev_drg/__init__.py",
+      "source": "/ai/data/moe-lora/Jev/openjev_drg/__init__.py",
+      "sha256": "97c068260d0be0c65c4269ceb32c79a6a39bd8954936770f71061be226a79485",
+      "bytes": 58
+    },
+    {
+      "path": "tests/support/openjev_drg/evaluation.py",
+      "source": "/ai/data/moe-lora/Jev/openjev_drg/evaluation.py",
+      "sha256": "5621ffcd80e2f7bdaabca78c5aa8c9a782395fc5abed8187a0afc9e4b6ff6353",
+      "bytes": 3663
+    },
+    {
+      "path": "tests/support/openjev_drg/experts.py",
+      "source": "/ai/data/moe-lora/Jev/openjev_drg/experts.py",
+      "sha256": "85ed91fa0e4bd2560d3fb50a689892fd2164e361f107a7ae005137f85c9d2021",
+      "bytes": 4891
+    },
+    {
+      "path": "tests/support/openjev_drg/oracle.py",
+      "source": "/ai/data/moe-lora/Jev/openjev_drg/oracle.py",
+      "sha256": "a73bcda5e5f46f88fce7f493a737547d100034547beb27b356c5e53277a46850",
+      "bytes": 4247
+    },
+    {
+      "path": "tests/support/openjev_drg/protocol.py",
+      "source": "/ai/data/moe-lora/Jev/openjev_drg/protocol.py",
+      "sha256": "9932427ff5cfea067db752bba1a6dcfd323cc97678475cd8bfa3404e1a54f8e3",
+      "bytes": 1255
+    },
+    {
+      "path": "tests/support/openjev_drg/router.py",
+      "source": "/ai/data/moe-lora/Jev/openjev_drg/router.py",
+      "sha256": "56f82e44976b36747be2f039a44d6e32da281c0eb90b38ca665bed31e8b5eafe",
+      "bytes": 4725
+    },
+    {
+      "path": "tests/support/00_prepare_splits.py",
+      "source": "/ai/data/moe-lora/Jev/00_prepare_splits.py",
+      "sha256": "519cd51ac5a4ee5c5124c4f5fe0d26cc44a8bbfabbe3250fc281d8e5e431c221",
+      "bytes": 7900
+    },
+    {
+      "path": "tests/support/03_build_full_block_groups.py",
+      "source": "/ai/data/moe-lora/Jev/03_build_full_block_groups.py",
+      "sha256": "44e1fd3c0125cc50861353c7cb9b067c63ebf2c4baf7ee6396a58d0c292c7692",
+      "bytes": 21132
+    },
+    {
+      "path": "expert_training/tests/test_joint_moe.py",
+      "source": "/ai/data/moe-lora/drg-llama/new_layerwise/tests/test_joint_moe.py",
+      "sha256": "eb67ac5bb95204fe78c84b87424df99521f9dcabef9b4875765997a24ff09256",
+      "bytes": 4171
+    }
+  ],
+  "publication_redactions": {
+    "experiments/batch_nll_20261027/records/config.json": [
+      "expert_meta.best_validation_loss",
+      "baseline_validation"
+    ],
+    "experiments/batch_nll_20261027/records/experiment_contract.json": [
+      "configuration.expert_meta.best_validation_loss",
+      "configuration.baseline_validation"
+    ]
+  }
+}

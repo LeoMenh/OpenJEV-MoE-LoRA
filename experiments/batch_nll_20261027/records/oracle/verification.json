@@ -1,0 +1,17 @@
+{
+  "best_route": [
+    0,
+    0,
+    0,
+    2
+  ],
+  "cases": 16,
+  "compute_microbatch": 8,
+  "finished_at": 1793077537.5827935,
+  "max_length": 1024,
+  "max_reused_cost_error": 0.0,
+  "mean_NLL_oracle_exact": true,
+  "passed": true,
+  "route_count": 18,
+  "train_batch_size": 16
+}

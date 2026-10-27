@@ -1,0 +1,7 @@
+# versions the paper's experiments were run with (Python 3.12, CUDA 12.4)
+torch==2.6.0
+transformers==5.17.0
+datasets==5.0.1
+numpy==2.5.2
+matplotlib==3.11.2
+pytest

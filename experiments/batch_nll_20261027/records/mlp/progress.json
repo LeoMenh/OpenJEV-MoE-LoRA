@@ -1,0 +1,11 @@
+{
+  "block": 3,
+  "epoch": 3,
+  "mean_oracle_CE_since_resume": 1.2457025381626938,
+  "oracle_accuracy_since_resume": 0.5405992858251825,
+  "phase": "optimal",
+  "status": "training",
+  "step": 13285,
+  "steps_per_epoch": 13285,
+  "updated_at": 1793083586.8142948
+}

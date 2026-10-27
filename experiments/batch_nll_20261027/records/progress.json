@@ -1,0 +1,21 @@
+{
+  "status": "running",
+  "stage": "02_optimal_train_and_validation_oracle",
+  "completed": [
+    "00_preflight",
+    "01_optimal_features"
+  ],
+  "launcher_pid": 169937,
+  "children": [
+    170836,
+    170837,
+    170838,
+    170839,
+    170840,
+    170841,
+    170842,
+    170843
+  ],
+  "updated_at": 1793095575.83903,
+  "test_evaluated": false
+}

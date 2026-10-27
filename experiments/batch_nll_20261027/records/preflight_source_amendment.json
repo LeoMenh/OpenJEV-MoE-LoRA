@@ -1,0 +1,9 @@
+{
+  "time": 1793078017.2628596,
+  "reason": "Recover working checkpoint after interrupted atomic final write; skip completed epoch on resume",
+  "old_contract": "7494dc7cf5a55e27ad453cf2298651addee18d3541778dd573bf9e0e87b9653f",
+  "new_contract": "f5131a20f7b365cd16a7b2c69aea54a2a916e42aca6762b3baa1b7f58de503c1",
+  "router_training_started": false,
+  "feature_chunks_created": false,
+  "initial_contract_preserved": "experiment_contract.initial.json"
+}

@@ -1,0 +1,8 @@
+{"method": "openjev", "phase": "optimal", "block": 1, "epoch": 1, "mean_CE": 1.4906862412878918, "accuracy": 0.5079297869237319, "logged_cases": 212553, "updated_at": 1793084093.7530563}
+{"method": "openjev", "phase": "optimal", "block": 1, "epoch": 2, "mean_CE": 1.4434357252188557, "accuracy": 0.52026082906381, "logged_cases": 212553, "updated_at": 1793085646.6179404}
+{"method": "openjev", "phase": "optimal", "block": 1, "epoch": 3, "mean_CE": 1.2730304238379402, "accuracy": 0.5319896684591607, "logged_cases": 212553, "updated_at": 1793087225.4473557}
+{"method": "openjev", "phase": "optimal", "block": 2, "epoch": 1, "mean_CE": 1.4685239977189533, "accuracy": 0.4386388336085588, "logged_cases": 212553, "updated_at": 1793088778.569551}
+{"method": "openjev", "phase": "optimal", "block": 2, "epoch": 2, "mean_CE": 1.353475765688698, "accuracy": 0.48329593089723505, "logged_cases": 212553, "updated_at": 1793090396.0644624}
+{"method": "openjev", "phase": "optimal", "block": 2, "epoch": 3, "mean_CE": 1.273367913349978, "accuracy": 0.5032391921073803, "logged_cases": 212553, "updated_at": 1793092012.736718}
+{"method": "openjev", "phase": "optimal", "block": 3, "epoch": 1, "mean_CE": 1.6330820216837916, "accuracy": 0.5403687550869666, "logged_cases": 212553, "updated_at": 1793093648.4510772}
+{"method": "openjev", "phase": "optimal", "block": 3, "epoch": 2, "mean_CE": 1.422014970998341, "accuracy": 0.6058347800313334, "logged_cases": 212553, "updated_at": 1793095221.3938904}

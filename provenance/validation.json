@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-27",
+  "timezone": "Asia/Shanghai",
+  "pytest": {
+    "command": "OMP_NUM_THREADS=1 MKL_NUM_THREADS=1 python -m pytest -q",
+    "passed": 14,
+    "failed": 0,
+    "scope": "CPU tiny-model tests of current runtime, source joint experts and prefix cache"
+  },
+  "release_verification": "passed; exported source hashes, current-experiment-only records and local documentation links",
+  "local_run_preparation": "passed; isolated copy, relocated configuration and recomputed execution contract; training was not launched",
+  "formal_training_relaunched": false,
+  "final_validation_results_available": false
+}

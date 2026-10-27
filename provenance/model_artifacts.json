@@ -1,0 +1,26 @@
+{
+  "artifacts": [
+    {
+      "name": "frozen_experts_and_head",
+      "original_local_path": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/reused/expert_and_head.pt",
+      "bytes": 83628606,
+      "sha256": "d6a710261e2965150cc526aa33683ca3d31e54da6f3b0950e827232e0a2e2aae",
+      "included_in_git": false
+    },
+    {
+      "name": "openjev_O2",
+      "original_local_path": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/initialization/O2.pt",
+      "bytes": 3441253863,
+      "sha256": "7aa60573108c9c5d272c928cb185a644a11585b508f8cf17831db4231af2a315",
+      "included_in_git": false
+    },
+    {
+      "name": "batch_train_oracle",
+      "original_local_path": "/ai/data/moe-lora/Jev/runs/A_OPENJEV/batch_nll_mlp_openjev_1233_1024_20261027/oracle/train.pt",
+      "bytes": 18071025,
+      "sha256": "18d66fcb60ebf5fc98f441ca37d5ec36591dbfd7b67fd06a88505c5eaf36301c",
+      "included_in_git": false
+    }
+  ],
+  "note": "Weights, patient records, patient-level scores and hidden caches remain local; these hashes identify the experimental artifacts."
+}
